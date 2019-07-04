@@ -10,7 +10,7 @@ Framework was created using the following technologies:
 - AssertJ
 - PageObjectModel
 
-I'm one of the practitiones mentioned in Martin Fowler's PageObject article (https://martinfowler.com/bliki/PageObject.html) in note #2 
+I'm one of the practitioners mentioned in Martin Fowler's PageObject article (https://martinfowler.com/bliki/PageObject.html) in note #2
 with a slight difference as you may see:
 
 2: Having page objects be responsible for creating other page objects in response to things like navigation is common advice. 
